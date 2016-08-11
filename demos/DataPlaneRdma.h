@@ -1,10 +1,3 @@
-/*
- * DataPlaneRdma.h
- *
- *  Created on: Feb 9, 2012
- *      Author: stu
- */
-
 #ifndef DATAPLANERDMA_H_
 #define DATAPLANERDMA_H_
 

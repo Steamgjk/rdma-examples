@@ -1,10 +1,3 @@
-/*
- * NioClient.h
- *
- *  Created on: Aug 24, 2011
- *      Author: stu
- */
-
 #ifndef NIOCLIENT_H_
 #define NIOCLIENT_H_
 

@@ -1,10 +1,3 @@
-/*
- * RdmaClient.cpp
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #include "RdmaClient.h"
 
 #include <sys/socket.h>

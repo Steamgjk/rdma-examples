@@ -1,5 +1,3 @@
-// Definition of the ClientSocket class
-
 #ifndef ClientSocket_class
 #define ClientSocket_class
 

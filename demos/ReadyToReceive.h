@@ -1,10 +1,3 @@
-/*
- * ReadyToReceive.h
- *
- *  Created on: Aug 24, 2011
- *      Author: stu
- */
-
 #ifndef READYTORECEIVE_H_
 #define READYTORECEIVE_H_
 

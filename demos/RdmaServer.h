@@ -1,10 +1,3 @@
-/*
- * RdmaServer.h
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #ifndef RDMASERVER_H_
 #define RDMASERVER_H_
 

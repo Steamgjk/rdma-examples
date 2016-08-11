@@ -1,5 +1,3 @@
-// Definition of the ServerSocket class
-
 #ifndef ServerSocket_class
 #define ServerSocket_class
 

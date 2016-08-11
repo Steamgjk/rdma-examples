@@ -1,10 +1,3 @@
-/*
- * BufferUtils.h
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #ifndef BUFFERUTILS_H_
 #define BUFFERUTILS_H_
 

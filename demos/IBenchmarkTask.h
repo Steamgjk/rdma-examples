@@ -1,10 +1,3 @@
-/*
- * IBenchmarkTask.h
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #ifndef IBENCHMARKTASK_H_
 #define IBENCHMARKTASK_H_
 

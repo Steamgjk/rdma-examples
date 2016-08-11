@@ -1,10 +1,3 @@
-/*
- * NioServer.cpp
- *
- *  Created on: Aug 24, 2011
- *      Author: stu
- */
-
 #include "NioServer.h"
 
 NioServer::NioServer() {

@@ -1,10 +1,3 @@
-/*
- * RdmaClient.h
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #ifndef RDMACLIENT_H_
 #define RDMACLIENT_H_
 

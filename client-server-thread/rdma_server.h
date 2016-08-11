@@ -1,8 +1,3 @@
-/* filename:  rdma_server.h 
- * ClassName: RDMAServer
- * Create & emulate rdma server
- */
-
 #ifndef RDMASERVER_H
 #define RDMASERVER_H
 

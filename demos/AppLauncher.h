@@ -1,10 +1,3 @@
-/*
- * AppLauncher.h
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #ifndef APPLAUNCHER_H_
 #define APPLAUNCHER_H_
 

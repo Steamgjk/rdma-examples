@@ -1,10 +1,3 @@
-/*
- * ControlUtils.h
- *
- *  Created on: Sep 28, 2011
- *      Author: stu
- */
-
 #ifndef CONTROLUTILS_H_
 #define CONTROLUTILS_H_
 

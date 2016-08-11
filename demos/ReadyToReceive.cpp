@@ -1,10 +1,3 @@
-/*
- * ReadyToReceive.cpp
- *
- *  Created on: Aug 24, 2011
- *      Author: stu
- */
-
 #include "ReadyToReceive.h"
 #include <arpa/inet.h>
 #include <string.h>

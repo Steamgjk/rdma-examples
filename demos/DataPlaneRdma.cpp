@@ -1,10 +1,3 @@
-/*
- * DataPlaneRdma.cpp
- *
- *  Created on: Feb 9, 2012
- *      Author: stu
- */
-
 #include "DataPlaneRdma.h"
 
 DataPlaneRdma::DataPlaneRdma(struct ibv_comp_channel *comp_channel, struct ibv_cq *cq, struct ibv_qp *qp){

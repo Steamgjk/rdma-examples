@@ -1,10 +1,3 @@
-/*
- * ControlUtils.cpp
- *
- *  Created on: Sep 28, 2011
- *      Author: stu
- */
-
 #include "ControlUtils.h"
 
 ControlUtils::ControlUtils(int socket) {

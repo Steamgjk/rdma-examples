@@ -1,10 +1,3 @@
-/*
- * AppLauncher.cpp
- *
- *  Created on: Aug 24, 2011
- *      Author: stu
- */
-
 #include <string>
 
 #include <getopt.h>

@@ -1,10 +1,3 @@
-/*
- * RdmaServer.cpp
- *
- *  Created on: Sep 14, 2011
- *      Author: stu
- */
-
 #include "RdmaServer.h"
 #include <sys/socket.h>
 #include <netinet/in.h>
